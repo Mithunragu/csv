@@ -1,0 +1,37 @@
+Name,2Spt,Description,2Spt,Address 1,2Spt,Address 2,2Spt,City,2Spt,State,2Spt,Zipcode,2Spt,Country,2Spt,Email,2Spt,Phone,2Spt,URL,2Spt,WorkingHours,2Spt,Categories,2Spt,Sub categories,2Spt,Reviews01,2Spt,Rating,2Spt,Reviews02,2Spt,Rating,2Spt,Reviews03,2Spt,Rating,2Spt,,2Spt,,2Spt,,2Spt,,2Spt,YelpID,2Spt,YelpID,2Spt,Latitude,2Spt,Longitude,2Spt,Date
+
+Example:
+
+The CSV data is structured with specific fields separated by "2Spt". Here’s a detailed explanation of each column:
+
+
+Name            : The name of the business location.
+Description     : A brief description of the business.
+Address 1       : The first line of the address, typically the street address.
+Address 2	    : The second line of the address.
+City		    : The city where the business is located.
+State			: The state where the business is located.
+Zipcode			: The postal code for the address.
+Country			: The country where the business is located.
+Email			: The contact email address for the business. 
+Phone			: The contact phone number for the business.
+URL				: The website URL for the business. 
+WorkingHours	: The working hours of the business, with each day's hours separated by semicolons.
+Categories		: The primary categories under which the business is classified.
+Sub categories	: Subcategories for further classification. 
+Reviews01		: The first review for the business.
+Rating			: The rating associated with the first review.
+Reviews02		: The second review for the business.
+Rating			: The rating associated with the second review.
+YelpID			: The unique identifier for the business on Yelp.
+Latitude		: The latitude coordinate for the business's location.
+Longitude		: The longitude coordinate for the business's location.
+Date			: The date of the entry or last update.
+
+Here’s the provided sample data, with each field explained:
+
+
+Hoja Bubble Tea And Asian Street Food,2Spt,Hoja Bubble Tea And Asian Street Food,2Spt,812 W Spring Creek Pkwy,2Spt,Ste 208,2Spt,Plano,2Spt,TX,2Spt,75023,2Spt,US,2Spt,,2Spt,(469) 969-0055,2Spt,,2Spt,tu:11:30-20:30;we:11:30-20:30;th:11:30-20:30;fr:11:30-20:30;sa:11:30-20:30;su:12:00-20:30;,2Spt,Taiwanese,2Spt,,2Spt,fire boba really knows their stuff very yummy enjoyable atmosphere and good vibes all around,2Spt,5.0,2Spt,The fried chicken is always extremely crispy and drinks are handmade. ..I&#39;ve had their oreo and red bean frappaccino and you can tell that they blended...,2Spt,5.0,2Spt,Drinks: 4 stars.Food: 2-3 stars.Service: 4 stars.Ambience: 4 stars..The QPie was a 2 star. For starters#com# the chicken needs to be pounded into a thin piece....,2Spt,4.0,2Spt,,2Spt,,2Spt,,2Spt,,2Spt,XeUdySycvngbWzeD3i1kSw,2Spt,XeUdySycvngbWzeD3i1kSw,2Spt,33.05554,2Spt,-96.70786,2Spt,06/12/2024
+
+
+
